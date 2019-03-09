@@ -1,0 +1,31 @@
+.carousel {
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding: 4px;
+    box-sizing: border-box;
+    background: whitesmoke;
+    border-radius: 5px;
+}
+.container{
+    margin-top: 30px;
+    margin: 50px;
+    padding: 4px;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+.formsignup{
+    margin: 30px;
+}
+.col{
+     margin: 10px;
+     margin-left: 3px;
+}
+.formgrup{
+    margin: 10 px;  
+}
+.btnsavesignup{
+    margin-left: 30px;
+
+}
